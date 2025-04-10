@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .player{
     height: 100vh;
     display: flex;
@@ -22,29 +22,3 @@
     align-items: center;
     justify-content: space-between;
     width: 90%;
-=======
-.player{
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.player img{
-    position: absolute;
-    top:20px;
-    left:20px;
-    width: 50px;
-    cursor: pointer;
-}
-
-.player iframe{
-    border: 10px;
-}
-.player-info{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 90%;
->>>>>>> 8f375c6d110d50da204284cd4c353c76935e419b
-}
